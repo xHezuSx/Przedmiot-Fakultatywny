@@ -1,0 +1,4 @@
+hash dla dowolnego obrazu:
+3eafeb7fd9541ea0f57eef601df85324973faaf996d9ff41f5db585f8f530fa7
+hash dla zmienionego obrazu:
+3745b0bba890723300b91bd7d67c9a6061e28d7145e2d799fe948d55e5454b22
